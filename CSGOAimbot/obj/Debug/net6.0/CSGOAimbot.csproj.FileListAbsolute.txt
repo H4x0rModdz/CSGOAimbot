@@ -1,0 +1,15 @@
+C:\dev\CSGOAimbot\CSGOAimbot\bin\Debug\net6.0\CSGOAimbot.exe
+C:\dev\CSGOAimbot\CSGOAimbot\bin\Debug\net6.0\CSGOAimbot.deps.json
+C:\dev\CSGOAimbot\CSGOAimbot\bin\Debug\net6.0\CSGOAimbot.runtimeconfig.json
+C:\dev\CSGOAimbot\CSGOAimbot\bin\Debug\net6.0\CSGOAimbot.dll
+C:\dev\CSGOAimbot\CSGOAimbot\bin\Debug\net6.0\CSGOAimbot.pdb
+C:\dev\CSGOAimbot\CSGOAimbot\obj\Debug\net6.0\CSGOAimbot.csproj.AssemblyReference.cache
+C:\dev\CSGOAimbot\CSGOAimbot\obj\Debug\net6.0\CSGOAimbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSGOAimbot\CSGOAimbot\obj\Debug\net6.0\CSGOAimbot.AssemblyInfoInputs.cache
+C:\dev\CSGOAimbot\CSGOAimbot\obj\Debug\net6.0\CSGOAimbot.AssemblyInfo.cs
+C:\dev\CSGOAimbot\CSGOAimbot\obj\Debug\net6.0\CSGOAimbot.csproj.CoreCompileInputs.cache
+C:\dev\CSGOAimbot\CSGOAimbot\obj\Debug\net6.0\CSGOAimbot.dll
+C:\dev\CSGOAimbot\CSGOAimbot\obj\Debug\net6.0\refint\CSGOAimbot.dll
+C:\dev\CSGOAimbot\CSGOAimbot\obj\Debug\net6.0\CSGOAimbot.pdb
+C:\dev\CSGOAimbot\CSGOAimbot\obj\Debug\net6.0\CSGOAimbot.genruntimeconfig.cache
+C:\dev\CSGOAimbot\CSGOAimbot\obj\Debug\net6.0\ref\CSGOAimbot.dll
